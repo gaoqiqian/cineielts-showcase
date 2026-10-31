@@ -1,0 +1,14 @@
+src/
+frontend/
+backend/
+node_modules/
+dist/
+.env
+.env.*
+*.db
+*.sqlite*
+*.log
+*.zip
+*.tar*
+.openai/
+.DS_Store
